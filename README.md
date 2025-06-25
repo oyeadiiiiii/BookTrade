@@ -1,2 +1,2 @@
 # BookTrade
-An e-commerce website to sell books
+An E-commerce website 
